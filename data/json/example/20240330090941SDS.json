@@ -1,0 +1,10 @@
+{
+    "data": {
+        "result": {
+            "available": false,
+            "domain_name": "example.id",
+            "errors": []
+        },
+        "domains_in_focus": []
+    }
+}

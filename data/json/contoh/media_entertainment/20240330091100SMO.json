@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "domain_name": "contoh.art",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.art",
+                "price": {
+                    "old": 219900,
+                    "purchase": 31900,
+                    "discount": 85,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.fyi",
+            "label": {
+                "text": "PROMO",
+                "class": "promo"
+            },
+            "product": {
+                "product_slug": "domain:.fyi",
+                "price": {
+                    "old": 313900,
+                    "purchase": 109900,
+                    "discount": 65,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.media",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.media",
+                "price": {
+                    "old": 470900,
+                    "purchase": 94900,
+                    "discount": 80,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.studio",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.studio",
+                "price": {
+                    "old": 392900,
+                    "purchase": 235900,
+                    "discount": 40,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.games",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.games",
+                "price": {
+                    "old": 455900,
+                    "purchase": 188900,
+                    "discount": 59,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.tv",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.tv",
+                "price": {
+                    "old": 549900,
+                    "purchase": 549900,
+                    "discount": 0,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.press",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.press",
+                "price": {
+                    "old": 941900,
+                    "purchase": 46900,
+                    "discount": 95,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.news",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.news",
+                "price": {
+                    "old": 329900,
+                    "purchase": 156900,
+                    "discount": 52,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.photography",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.photography",
+                "price": {
+                    "old": 345900,
+                    "purchase": 172900,
+                    "discount": 50,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        }
+    ]
+}

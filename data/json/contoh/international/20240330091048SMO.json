@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "domain_name": "contoh.fr",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.fr",
+                "price": {
+                    "old": 150900,
+                    "purchase": 117900,
+                    "discount": 22,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.es",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.es",
+                "price": {
+                    "old": 133900,
+                    "purchase": 117900,
+                    "discount": 12,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.life",
+            "label": {
+                "text": "PROMO",
+                "class": "promo"
+            },
+            "product": {
+                "product_slug": "domain:.life",
+                "price": {
+                    "old": 439900,
+                    "purchase": 46900,
+                    "discount": 89,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.lt",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.lt",
+                "price": {
+                    "old": 150900,
+                    "purchase": 133900,
+                    "discount": 11,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.nl",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.nl",
+                "price": {
+                    "old": 109900,
+                    "purchase": 94900,
+                    "discount": 14,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.eu",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.eu",
+                "price": {
+                    "old": 108900,
+                    "purchase": 58900,
+                    "discount": 46,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.pl",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.pl",
+                "price": {
+                    "old": 392900,
+                    "purchase": 62900,
+                    "discount": 84,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.de",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.de",
+                "price": {
+                    "old": 78329.95,
+                    "purchase": 62900,
+                    "discount": 20,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.ch",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.ch",
+                "price": {
+                    "old": 109900,
+                    "purchase": 109900,
+                    "discount": 0,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.se",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.se",
+                "price": {
+                    "old": 298900,
+                    "purchase": 251900,
+                    "discount": 16,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.pt",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.pt",
+                "price": {
+                    "old": 298900,
+                    "purchase": 298900,
+                    "discount": 0,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.ro",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.ro",
+                "price": {
+                    "old": 517900,
+                    "purchase": 517900,
+                    "discount": 0,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.it",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.it",
+                "price": {
+                    "old": 266900,
+                    "purchase": 266900,
+                    "discount": 0,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.us",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.us",
+                "price": {
+                    "old": 141900,
+                    "purchase": 141900,
+                    "discount": 0,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.org.in",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.org.in",
+                "price": {
+                    "old": 156900,
+                    "purchase": 141900,
+                    "discount": 10,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "domain_name": "contoh.io",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.io",
+                "price": {
+                    "old": 784900,
+                    "purchase": 627900,
+                    "discount": 20,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.life",
+            "label": {
+                "text": "PROMO",
+                "class": "promo"
+            },
+            "product": {
+                "product_slug": "domain:.life",
+                "price": {
+                    "old": 439900,
+                    "purchase": 46900,
+                    "discount": 89,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.store",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.store",
+                "price": {
+                    "old": 816900,
+                    "purchase": 15900,
+                    "discount": 98,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.shop",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.shop",
+                "price": {
+                    "old": 520900,
+                    "purchase": 14900,
+                    "discount": 97,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.cloud",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.cloud",
+                "price": {
+                    "old": 298900,
+                    "purchase": 15900,
+                    "discount": 95,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.fun",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.fun",
+                "price": {
+                    "old": 517900,
+                    "purchase": 15900,
+                    "discount": 97,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.net",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.net",
+                "price": {
+                    "old": 251900,
+                    "purchase": 156900,
+                    "discount": 38,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": "1st year with a 2 or more years registration",
+            "multi_year_deal": true
+        },
+        {
+            "domain_name": "contoh.click",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.click",
+                "price": {
+                    "old": 172900,
+                    "purchase": 31900,
+                    "discount": 82,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.top",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.top",
+                "price": {
+                    "old": 109900,
+                    "purchase": 46900,
+                    "discount": 57,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.icu",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.icu",
+                "price": {
+                    "old": 219900,
+                    "purchase": 46900,
+                    "discount": 79,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        {
+            "domain_name": "contoh.ai",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.ai",
+                "price": {
+                    "old": 1569950,
+                    "purchase": 1255900,
+                    "discount": 20,
+                    "billing_period": {
+                        "period": 2,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": false
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        }
+    ]
+}

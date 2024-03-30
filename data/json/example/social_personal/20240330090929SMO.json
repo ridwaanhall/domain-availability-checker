@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "domain_name": "examples.games",
+            "label": {
+                "text": "PROMO",
+                "class": "promo"
+            },
+            "product": {
+                "product_slug": "domain:.games",
+                "price": {
+                    "old": 455900,
+                    "purchase": 188900,
+                    "discount": 59,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        }
+    ]
+}

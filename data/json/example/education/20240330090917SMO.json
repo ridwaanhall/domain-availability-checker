@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "domain_name": "examples.finance",
+            "label": {
+                "text": "PROMO",
+                "class": "promo"
+            },
+            "product": {
+                "product_slug": "domain:.finance",
+                "price": {
+                    "old": 925900,
+                    "purchase": 235900,
+                    "discount": 75,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "domain_name": "object.email",
+            "label": {
+                "text": "PROMO",
+                "class": "promo"
+            },
+            "product": {
+                "product_slug": "domain:.email",
+                "price": {
+                    "old": 298900,
+                    "purchase": 94900,
+                    "discount": 68,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        }
+    ]
+}

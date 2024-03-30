@@ -1,0 +1,30 @@
+{
+    "data": {
+        "result": {
+            "available": true,
+            "domain_name": "contoh.io",
+            "label": {
+                "text": null,
+                "class": null
+            },
+            "product": {
+                "product_slug": "domain:.io",
+                "price": {
+                    "old": 784900,
+                    "purchase": 627900,
+                    "discount": 20,
+                    "billing_period": {
+                        "period": 1,
+                        "period_unit": "year"
+                    }
+                },
+                "addons": {
+                    "privacy_protection": true
+                }
+            },
+            "tooltip": null,
+            "multi_year_deal": false
+        },
+        "domains_in_focus": []
+    }
+}
